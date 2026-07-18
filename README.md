@@ -11,13 +11,13 @@
 
 🎓 Final Year B.Tech CSE Student
 
-💻 Web Developer
+💻 Aspiring Web Developer
 
 ☕ Java Learner
 
-🚀 Passionate about building web applications
+🚀 Passionate about building web applications and solving real-world problems
 
-🌱 Currently learning React.js
+🌱 Currently exploring React.js, Generative AI & LangGraph
 
 </td>
 
@@ -30,37 +30,59 @@
 </tr>
 </table>
 
+---
+
 ## 🛠 Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 - Java
-- Git & GitHub
+- Git
+- GitHub
+
+---
 
 ## 🚀 Featured Projects
 
-### Self-Healing RAG Pipeline
-Built a retrieval-augmented generation pipeline with self-healing mechanisms to improve answer quality and retrieval accuracy.
+### 🔹 Self-Healing RAG Pipeline
+Built a Retrieval-Augmented Generation (RAG) pipeline with self-healing capabilities to improve answer quality, retrieval accuracy, and system reliability.
 
-### AI Book Summarizer
-Developed an AI-powered application that generates concise summaries from lengthy book content.
+### 🔹 AI Book Summarizer
+Developed an AI-powered application that generates concise and meaningful summaries from lengthy book content.
 
-### Fake News Detection System
-Machine learning-based system for detecting misleading and fake news articles.
+### 🔹 Fake News Detection System
+Built a machine learning-based system for detecting misleading and fake news articles using text classification techniques.
+
+---
 
 ## 📚 Currently Learning
 
 - React.js
+- Generative AI
+- LangGraph
 - Advanced JavaScript
-- Web Development
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswini284&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini284&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/tejaswini-anchate-a83750342
+🔗 LinkedIn: [Tejaswini Anchate](https://www.linkedin.com/in/tejaswini-anchate-a83750342)
 
-## 📊 GitHub Stats
+---
 
-![Tejaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswini284&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini284&layout=compact&theme=tokyonight)
+<p align="center">
+✨ Code • Learn • Build • Repeat ✨
+</p>
