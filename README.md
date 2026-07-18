@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Web+Developer;Java+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Creative+Websites;Code+%E2%80%A2+Learn+%E2%80%A2+Build" alt="Typing SVG" />
+</p>
 </p>
 🎓 Final Year B.Tech CSE Student
 
