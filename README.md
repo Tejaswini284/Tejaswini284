@@ -1,3 +1,4 @@
+<img width="1085" height="1450" alt="3aeaea16-fde4-4cd9-a398-e141d18e0fb9" src="https://github.com/user-attachments/assets/d921c7cc-edc5-4abe-a7d6-9fde20e08544" />
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
 
 <p align="center">
