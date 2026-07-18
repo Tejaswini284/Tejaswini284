@@ -2,10 +2,6 @@
 
 🎓 Final Year B.Tech CSE Student
 
-💻 Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
 🚀 Passionate about building scalable web applications and AI-powered solutions
 
 ## 🛠 Tech Stack
@@ -13,12 +9,7 @@
 - HTML
 - CSS
 - JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
 - Java
-- Python
 - Git & GitHub
 
 ## 🚀 Featured Projects
