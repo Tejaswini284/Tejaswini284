@@ -51,17 +51,6 @@ Built a machine learning-based system for detecting misleading and fake news art
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswini284&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini284&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
